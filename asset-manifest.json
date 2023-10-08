@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/reactpwa/static/css/main.a617e044.chunk.css",
-    "main.js": "/reactpwa/static/js/main.f19cae27.chunk.js",
-    "main.js.map": "/reactpwa/static/js/main.f19cae27.chunk.js.map",
+    "main.js": "/reactpwa/static/js/main.36525c37.chunk.js",
+    "main.js.map": "/reactpwa/static/js/main.36525c37.chunk.js.map",
     "runtime-main.js": "/reactpwa/static/js/runtime-main.1e8b6878.js",
     "runtime-main.js.map": "/reactpwa/static/js/runtime-main.1e8b6878.js.map",
-    "static/js/2.ce7f5bf1.chunk.js": "/reactpwa/static/js/2.ce7f5bf1.chunk.js",
-    "static/js/2.ce7f5bf1.chunk.js.map": "/reactpwa/static/js/2.ce7f5bf1.chunk.js.map",
+    "static/js/2.28b3e9a5.chunk.js": "/reactpwa/static/js/2.28b3e9a5.chunk.js",
+    "static/js/2.28b3e9a5.chunk.js.map": "/reactpwa/static/js/2.28b3e9a5.chunk.js.map",
     "index.html": "/reactpwa/index.html",
     "static/css/main.a617e044.chunk.css.map": "/reactpwa/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.ce7f5bf1.chunk.js.LICENSE.txt": "/reactpwa/static/js/2.ce7f5bf1.chunk.js.LICENSE.txt",
+    "static/js/2.28b3e9a5.chunk.js.LICENSE.txt": "/reactpwa/static/js/2.28b3e9a5.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/reactpwa/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1e8b6878.js",
-    "static/js/2.ce7f5bf1.chunk.js",
+    "static/js/2.28b3e9a5.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.f19cae27.chunk.js"
+    "static/js/main.36525c37.chunk.js"
   ]
 }
